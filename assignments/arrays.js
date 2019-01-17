@@ -110,6 +110,7 @@ for (i = 0; i < carYears.length; i++) {
         oldCars.push(carYears[i])
     }
 }
+
 console.log(oldCars);
 console.log(oldCars.length); 
 
